@@ -1,6 +1,4 @@
-# Discord.JS V12 Boş altyapı!
-
-Şuanda bunu kullanmıyorum. Yakın zamanda daha basit ve kolay anlaşılacak kendi kullandığım altyapıların boş ve kullanıma hazır halini paylaşıcam.
+# Flykies Bot Altyapı!
 
 
 ### İşinize yarayabilecek bazı dökümanlar =>
