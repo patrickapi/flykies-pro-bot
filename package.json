@@ -1,0 +1,28 @@
+{
+  "name": "discord-bos-altyapi",
+  "version": "0.0.1",
+  "description": "DJSV12 Boş Altyapı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "wio.db": "^4.0.20"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Piece",
+    "Serendia"
+  ]
+}
